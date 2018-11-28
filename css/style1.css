@@ -1,0 +1,187 @@
+body{
+	margin:0;
+}
+.header{
+	background:#969C04;
+	height:200px;
+}
+.right{
+	float:right;
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+.right li{
+	margin-top:34px;
+}
+.first{
+	text-decoration:none;
+	padding:18px 30px;
+	color:white;
+	margin-left:205px;
+	background:#747902 ;
+	font-size:20px;
+}
+.second{
+	text-decoration:none;
+	color:white;
+	margin-right:25px;
+	font-size:18px;
+}
+.ser{
+	width:75%;
+	outline:none;
+	border:none;
+	height:40px;
+	margin-left:80px;
+	border-radius:4px;
+	border:1px solid black;
+}
+.left{
+	padding:3.5%;
+}
+.box{
+	height:70px;
+	background:black;
+}
+.icon{
+	margin:0;
+	float:right;
+	list-style:none;
+	margin-right:16px;
+}
+.icon li{
+	float:left;
+	margin-left:20px;
+	margin-top:20px;
+}
+.icon li a:hover{
+	opacity:0.6;
+}
+.menu{
+	margin:0;
+	float:left;
+	list-style:none;
+	margin-right:;
+}
+.menu li{
+	float:left;
+	margin-right:40px;
+}
+.menu li a{
+	text-decoration:none;
+	color:white;
+	line-height:70px;
+	font-size:19px;
+}
+.ban{
+	height:350px;
+	background:;
+	width:100%;
+}
+.items{
+	background:#ccc;
+	height:350px;
+	width:100%;
+}
+.one{
+	list-style:none;
+	float:left;
+	margin:0;
+	width:30%;
+	margin-top:70px;
+}
+.one li{
+	text-align:center;
+	margin-top:20px;
+}
+.one li a{
+	font-size:26px;
+	text-decoration:none;
+	color:#111;
+}
+.content{
+	background:;
+	height:500px;
+	margin-top:50px;
+}
+.part-1{
+	background:;
+	height:450px;
+	width:25%;
+	float:right;
+	margin-right:50px;
+}
+.part-2{
+	background:;
+	height:450px;
+	width:65%;
+	float:left;
+	margin-left:50px;
+}
+.part-2-one{
+	margin-left:27px;
+	width:27%;
+	height:400px;
+	background:;
+	float:left;
+	margin-right:15px;
+}
+.part-2-one p{
+	padding:10px;
+	text-align:justify;
+}
+.part-1-one p{
+	padding:5px;
+	text-align:justify;
+}
+.last{
+	background:;
+	height:400px;
+	margin-top:20px;
+}
+.log{
+	background:yellow;
+	height:390px;
+	float:right;
+	width:30%;
+}
+.in{
+	width:200%;
+	height:30px;
+	outline:none;
+	border:none;
+	border:1px solid black;
+}
+.btn{
+	border:none;
+	outline:none;
+	padding:10px 25px;
+	color:white;
+	background:#969C04;
+	
+}
+.gal{
+	background:;
+	width:100%;
+	float:right;
+	margin-left:85px;
+	height:390px;
+}
+.pic1{
+	width:268px;
+	height:280px;
+	background:;
+	float:right;
+	margin-left:px;
+	margin-right:43px;
+	margin-top:10px;
+}
+.footer{
+	float:left;
+	width:100%;
+	height:70px;
+	background:#111;
+	text-align:center;
+	color:white;
+}

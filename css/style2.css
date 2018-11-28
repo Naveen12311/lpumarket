@@ -1,0 +1,172 @@
+body{ 
+margin:0;}
+.header{
+	background:#969C04;
+	height:200px;
+}
+.right{
+	float:right;
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+.right li{
+	margin-top:34px;
+}
+.first{
+	text-decoration:none;
+	padding:18px 30px;
+	color:white;
+	margin-left:205px;
+	background:#747902;
+	font-size:20px;
+}
+.second{
+	text-decoration:none;
+	color:white;
+	margin-right:25px;
+	font-size:18px;
+}
+.ser{
+	width:75%;
+	outline:none;
+	border:none;
+	height:40px;
+	margin-left:80px;
+	border-radius:4px;
+	border:1px solid black;
+}
+.left{
+	padding:2%;
+}
+.box{
+	height:70px;
+	background:black;
+}
+.icon{
+	margin:0;
+	float:right;
+	list-style:none;
+	margin-right:16px;
+}
+.icon li{
+	float:left;
+	margin-left:20px;
+	margin-top:20px;
+}
+.icon li a:hover{
+	opacity:0.6;
+}
+.menu{
+	margin:0;
+	float:left;
+	list-style:none;
+	margin-right:;
+}
+.menu li{
+	float:left;
+	margin-right:40px;
+}
+.menu li a{
+	text-decoration:none;
+	color:white;
+	line-height:70px;
+	font-size:19px;
+}
+.items{
+	background:#ccc;
+	height:300px;
+	width:100%;
+}
+.one{
+	list-style:none;
+	float:left;
+	margin:0;
+	width:30%;
+	margin-top:26px;
+}
+.one li{
+	text-align:center;
+	margin-top:20px;
+}
+.one li a{
+	font-size:26px;
+	text-decoration:none;
+	color:#111;
+}
+.content{
+	width:100%;
+	height:510px;
+	margin-top:50px;
+	background:
+}
+.part1{
+	width:55%;
+	height:480px;
+	background:
+	margin-top:2%;
+	float:right;
+	margin-right:100px;
+	margin-left:20px;
+}	
+.part2{ 
+	width:30%;
+	height:480px;
+	background:
+	margin-top:2%;
+	float:right;
+	margin-left:70px;
+	margin-right:10px;
+}	
+.part-1-one{
+	text-align:justify;
+	padding:8px;
+}
+.photo
+{
+	width:240px;
+	height:160px;
+	background:blue;
+	margin-left:10px;
+}	
+.txt{
+	height:160px;
+	width:460px;
+	float:right;
+	margin-right:;
+}
+.test{
+	margin-top:40px;
+}
+.test p{
+	padding:7px;
+	text-align:justify;
+	margin-top:30px;
+}
+.gal{
+	height:400px;
+	width:1190px;
+	background;
+	float:left;
+	margin-left:70px;
+}
+.pic1{
+	width:21%;
+	height:300px;
+	background:;
+	float:left;
+	margin-right:47px;
+	margin-top:10px;
+}
+.pic1 p{
+	padding:2px;
+	margin-top:0.2px;
+}	
+.footer{
+	float:left;
+	width:100%;
+	height:70px;
+	background:#111;
+	text-align:center;
+	color:white;
+}	
